@@ -1,6 +1,6 @@
 # Cats_and_Dogs_Landing_Page
 This repository contains the code for a landing page designed for a pets-related website, specifically focusing on cats and dogs. The project showcases an engaging, user-friendly design to highlight services or products related to pets.
-[**Explore the Demo**](https://mujahid191.github.io/Fast_Food_Resturant/)
+
 ## Technologies Used
 #### HTML
 Structured the content and elements on the page.
