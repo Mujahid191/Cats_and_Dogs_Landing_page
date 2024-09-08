@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+html {
+  font-size: 62.5% !important;
+}
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  color: #313243;
+  font-family: "Poppins", sans-serif !important;
+}
+.zp {
+  color: #ffffff !important;
+}
+.tu {
+  text-transform: uppercase;
+}
+.tc {
+  text-transform: capitalize;
+}
+.fb {
+  font-weight: bold;
+}
+.fbb {
+  font-weight: bolder;
+}
+/* Navbar Part */
+.tb {
+  background-color: #daac00;
+  padding: 20px 0px !important;
+}
+.srb {
+  padding: 8px !important;
+  border: none !important;
+  border-radius: 0% !important;
+  font-size: 2rem;
+  background-color: #fcc302 !important;
+}
+.sri {
+  padding: 4px 15px !important;
+  border: none !important;
+  background-color: #00bec9;
+  color: #ffffff;
+  font-size: 2rem;
+}
+.sri:hover {
+  background-color: #fcc302 !important;
+  transition: all 0.8s ease-in-out;
+}
+.nav-item {
+  margin: 0px 13px !important;
+}
+.nav-link {
+  font-size: 2.5rem !important;
+  color: #ffffff !important;
+}
+.nav-link:hover {
+  color: #00bec9 !important;
+  transition: all 0.5s ease-in-out;
+}
+/* Website Part A */
+.pa {
+  background-color: #fcc302;
+  padding: 150px 0px 120px 0px !important;
+}
+.al {
+  margin-top: 105px !important;
+}
+.ah1 {
+  font-size: 6.6rem;
+}
+.ap1 {
+  font-size: 2.9rem;
+  margin: 20px 0px;
+}
+.abt1,
+.abt2,
+.bbt1 {
+  font-size: 2rem !important;
+  margin: 20px 20px 0px 0px;
+  padding: 12px 20px !important;
+}
+/* Website Part B */
+.pb {
+  margin-top: 140px !important;
+  position: relative !important;
+}
+.bl {
+  margin-top: 80px !important;
+}
+.bh1 {
+  font-size: 5rem;
+}
+.bp1 {
+  font-size: 2.9rem;
+}
+.shape {
+  background-color: rgb(252, 195, 2);
+  position: absolute;
+  width: 252px;
+  height: 206px;
+  z-index: -1;
+  top: 62%;
+  right: 27%;
+}
+/* Website Part C */
+.pc {
+  background-color: #fcc302;
+  margin: 140px 0px;
+  padding: 105px 0px;
+}
+.ch1 {
+  font-size: 7.5rem;
+}
+.cp1 {
+  font-size: 3.3rem;
+}
+.pc1 {
+  margin-top: 100px !important;
+}
+.ch2 {
+  font-size: 3.7rem;
+  margin: 50px 0px 25px;
+}
+.cp2 {
+  font-size: 2.5rem;
+}
+/* Website Part D */
+.shape2 {
+  background-color: rgb(252, 195, 2);
+  position: absolute;
+  width: 252px;
+  height: 206px;
+  z-index: -1;
+  top: 62%;
+  left: 27%;
+}
+/* Website Part E */
+.eh2 {
+  font-size: 4.1rem;
+  margin: 44px 0px 33px;
+}
+.pr1 {
+  text-decoration: line-through;
+  margin-right: 20px;
+}
+.ebt1 {
+  color: #ffffff !important;
+  padding: 8px 35px !important;
+  font-size: 2.5rem !important;
+  border-radius: 100px !important;
+}
